@@ -9,6 +9,7 @@
 <style module>
 .description {
   font-family: 'Get Schwifty';
+  color: var(--color-text);
 }
 
 .description strong {
