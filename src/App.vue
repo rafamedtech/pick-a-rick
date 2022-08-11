@@ -126,6 +126,7 @@ a:hover {
   font-family: 'Get Schwifty', sans-serif;
   font-size: 18px;
   margin-top: 1rem;
+  color: var(--color-text);
 }
 
 .game-board {
